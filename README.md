@@ -1,8 +1,8 @@
 # 创梦无限画布 · Windows 下载
 
-## 最新正式版：v1.6.9
+## 最新正式版：v1.6.10
 
-- **[下载 Windows x64 安装包](https://github.com/linbei1111/ChuangMeng-Canvas-Updates/releases/download/v1.6.9/ChuangMeng-Canvas-Setup.exe)**
+- **[下载 Windows x64 安装包](https://github.com/linbei1111/ChuangMeng-Canvas-Updates/releases/download/v1.6.10/ChuangMeng-Canvas-Setup.exe)**
 - [查看最新发布与更新说明](https://github.com/linbei1111/ChuangMeng-Canvas-Updates/releases/latest)
 - [历史版本](https://github.com/linbei1111/ChuangMeng-Canvas-Updates/releases)
 
